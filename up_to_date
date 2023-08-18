@@ -4,4 +4,4 @@ git commit -m
 git push 
 git branch 
 git checkout 
-git pull git status 
+git pull 
